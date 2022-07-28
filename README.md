@@ -1,2 +1,3 @@
 # hw1
-git homework
+Hello World!
+Git Homework!
